@@ -63,15 +63,6 @@ The dataset contains patient health records with features including:
 * Decision Tree helps visualize decision-making patterns.
 * Proper data preprocessing improves prediction performance.
 
-## Project Structure
-
-Heart-Disease-Prediction/
-│
-├── Dataset/
-├── Notebook/
-├── Screenshots/
-├── Models/
-└── README.md
 
 ## Future Improvements
 
